@@ -17,7 +17,7 @@ namespace CursoFoop_OCP_ExtensionMethods2
                 true
                 );
 
-            Console.WriteLine($"Produto = {produto1.Nome} Lucro = {produto1.MargemLucro()}");
+            Console.WriteLine($" Produto = {produto1.Nome}\n Lucro = {produto1.MargemLucro()}");
 
             Console.ReadLine();
         }
